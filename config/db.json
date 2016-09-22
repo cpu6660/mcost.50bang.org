@@ -1,0 +1,14 @@
+{
+  "Mysql" : {
+     "Host" : "127.0.0.1",
+     "Port" : 3306,
+     "User" : "root",
+     "Password" : "123456"
+  },
+  "Redis" : {
+    "Host" : "127.0.0.1",
+    "Port" : "6379",
+    "Auth" : "lalla"
+  },
+  "Storage" : "redis"
+}
